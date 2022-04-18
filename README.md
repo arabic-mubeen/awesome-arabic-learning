@@ -9,6 +9,13 @@
 * [Michigan State Open Books: Elementary Arabic II](https://openbooks.lib.msu.edu/elemarabicll/)
 * [Alkhattat Calligraphy booklet practice.](https://www.alkhattat.net/booklets)
 
+## Advanced
+
+### Arabic forums
+
+1. [Ahlu Allughah](https://www.ahlalloghah.com)
+2. [Alfaseeh](https://www.alfaseeh.com)
+
 ### Collections
 
 * [Listening collection](https://www.mezzoguild.com/best-arabic-listening-resources/)
