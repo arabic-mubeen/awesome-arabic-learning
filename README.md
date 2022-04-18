@@ -7,6 +7,7 @@
 * [Arabic Course](http://www.arabic-course.com)
 * [Michigan State Open Books: Elementary Arabic I](https://openbooks.lib.msu.edu/arb101/)
 * [Michigan State Open Books: Elementary Arabic II](https://openbooks.lib.msu.edu/elemarabicll/)
+* [Alkhattat Calligraphy booklet practice.](https://www.alkhattat.net/booklets)
 
 ### Collections
 
