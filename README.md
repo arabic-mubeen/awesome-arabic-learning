@@ -5,6 +5,8 @@
 * [Aljazeera](https://learning.aljazeera.net/en)
 * [Desert Sky](https://arabic.desert-sky.net)
 * [Arabic Course](http://www.arabic-course.com)
+* [Michigan State Open Books: Elementary Arabic I](https://openbooks.lib.msu.edu/arb101/)
+* [Michigan State Open Books: Elementary Arabic II](https://openbooks.lib.msu.edu/elemarabicll/)
 
 ### Collections
 
